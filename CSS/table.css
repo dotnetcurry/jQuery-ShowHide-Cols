@@ -1,0 +1,32 @@
+﻿body {
+}
+
+#someTable
+{
+	font-family: "Lucida Sans Unicode", "Lucida Grande", Sans-Serif;
+	font-size: 13px;
+	margin: 45px 0 0 45px;
+	width: 480px;
+	text-align: left;
+	border-collapse: collapse;
+}
+
+#someTable th
+{
+	font-size: 14px;
+	font-weight: normal;
+	padding: 8px;
+	background: #b9c9fe;
+	border-top: 4px solid #aabcfe;
+	border-bottom: 1px solid #fff;
+	color: #039;
+}
+
+#someTable td
+{
+	padding: 8px;
+	background: #e8edff; 
+	border-bottom: 1px solid #fff;
+	border-top: 1px solid transparent;
+}
+
